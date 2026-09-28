@@ -36,8 +36,9 @@ Currently serving as **Technical Manager at IDIQ**, my career encompasses archit
 <div align="center">
 
 [![MCPS](https://img.shields.io/badge/Microsoft-Certified_Professional_(MCPS)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com)
+[![Azure Solutions Architect](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
+[![Azure Administrator](https://img.shields.io/badge/Azure-Administrator_Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
 [![Azure Developer](https://img.shields.io/badge/Azure-Developer_Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
-[![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
 [![Programming in C#](https://img.shields.io/badge/MS-Programming_in_C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com)
 [![JavaScript ES6](https://img.shields.io/badge/Certified-JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
 
@@ -52,6 +53,7 @@ Currently serving as **Technical Manager at IDIQ**, my career encompasses archit
 #### ☁️ Cloud Architecture & Infrastructure as Code (IaC)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud_(GCP)-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AKS](https://img.shields.io/badge/Azure_Kubernetes_(AKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Azure_Bicep-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
