@@ -46,6 +46,17 @@ Currently serving as **Technical Manager at IDIQ**, my career encompasses archit
 
 ---
 
+### 🧭 Engineering Management & Delivery Governance
+
+| Strategic Pillar | Core Competencies & Milestone Achievements |
+| :--- | :--- |
+| **Agile & Delivery Cadence** | • **Agile-Scrum Practitioner**: Led sprint ceremonies, backlog grooming, velocity tracking, and sprint retrospectives.<br/>• **End-to-End SDLC Ownership**: Governed project lifecycles from ideation and PoC validation to commercial multi-tenant SaaS deployments.<br/>• **Enterprise Release Management**: Directed **5+ release cycles across 20+ enterprise microservices** with zero unplanned downtime. |
+| **Team Leadership & Mentorship** | • **Engineering Management**: Guided and mentored cross-functional engineering teams (3 to 5+ developers & QA engineers).<br/>• **Quality Culture**: Enforced peer reviews, Definition of Done (DoD), and automated DevSecOps quality gates.<br/>• **Process Acceleration**: Reduced deployment overhead by **20%** and cut client reporting delivery cycles by **30%**. |
+| **Stakeholder & Client Relations** | • **Client Project Specialist**: Managed multi-track contract delivery for enterprise clients (*Anthology/Blackboard, Florida National University, College of Southern Idaho, Daimler*).<br/>• **Client Retention & Renewals**: First consultant to secure **two consecutive multi-year contract renewals** via strict SLA adherence.<br/>• **Executive Alignment**: Translated business OKRs and C-suite objectives into technical roadmaps and actionable backlogs. |
+| **Governance, Risk & FinOps** | • **Cloud Financial Governance (FinOps)**: Enforced accountability for **TCO (Total Cost of Ownership)** and **TCC (Total Cost of Cloud)** across multi-cloud environments.<br/>• **Regulatory Compliance**: Delivered audit-ready systems strictly compliant with **FERPA** (Higher Education), **HIPAA**, **HITRUST**, and **HL7/FHIR** (Healthcare).<br/>• **Proactive Risk Mitigation**: Mitigated architectural upgrade risks, achieving **100% on-time milestone completion**. |
+
+---
+
 ### 🛠️ Technology Radar & Enterprise Toolbox
 
 <div align="center">
@@ -101,6 +112,14 @@ Currently serving as **Technical Manager at IDIQ**, my career encompasses archit
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+#### 📊 Project Management & Engineering Governance
+![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-Sprint_Cadence-0078D4?style=flat-square&logo=scrumalliance&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure_Boards-Backlogs_%26_Sprints-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Agile_Delivery-0052CC?style=flat-square&logo=jira&logoColor=white)
+![FinOps](https://img.shields.io/badge/Cloud_FinOps-TCO_%26_TCC_Governance-239120?style=flat-square&logo=cashapp&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance-FERPA_%7C_HIPAA_%7C_HITRUST-orange?style=flat-square&logo=securityscorecard&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Quality_Gates_%26_CI%2FCD-red?style=flat-square&logo=shield&logoColor=white)
 
 </div>
 
